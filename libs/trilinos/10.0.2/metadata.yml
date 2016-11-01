@@ -13,6 +13,8 @@
   full-featured set of concrete classes that implement all abstract interfaces.
 :group: Libraries
 :changelog: |
+  * Mon Oct 31 2016 Andrew Provis <andrew.provis@alces-software.com>
+    - Updated example templates to Clusterware literal scripts
   * Tue Mar 31 2015 - James Donohue <james.donohue@alces-software.com>
     - First created
 :src: trilinos-10.0.2-Source.tar.gz
